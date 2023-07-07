@@ -1,9 +1,16 @@
-![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)
+<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" alt="MasterHead" height="300" width="100%">
 
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
+
+<div align="center">
+ 👨‍💻
+  <strong>All my projects code is private!</strong>
+ 👨‍💻
+</div>
+
 <h3 align="center">A passionate Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
+ 
 - 🔭 I’m currently working on [To2 Platform](https://to2.net/)
 
 - 👨‍💻 All of my projects are available at [http://alaliee.com/](http://alaliee.com/)
@@ -15,6 +22,9 @@
 - 📄 Know about my experiences [http://alaliee.com/](http://alaliee.com/)
 
 - ⚡ Fun fact **Did you know that the first computer bug was a real insect? In 1947, computer scientist Grace Hopper found a moth trapped in the Harvard Mark II computer, causing it to malfunction. She famously taped the "bug" into her logbook, coining the term "debugging" to describe the process of fixing software issues. So the next time you encounter a bug in your code, remember it all started with a little insect! 🐛🪲**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
