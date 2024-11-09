@@ -11,22 +11,19 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
  
-- 🔭 I’m currently working on [To2 Platform](https://to2.net/)
-
-- 👨‍💻 All of my projects are available at [http://alaliee.com/](http://alaliee.com/)
+- 🔭 I’m currently working on [Skyline Holding (Full Time Jop) , Meshdp LLC (Remotely, Part-Time)]
+// - 👨‍💻 All of my projects are available at [http://alaliee.com/](http://alaliee.com/)
 
 - 💬 Ask me about **Next.js, Laravel, Node.js, MongoDB, Tailwind CSS, or React Native.**
 
 - 📫 How to reach me **alaliee.git@gmail.com**
 
-- 📄 Know about my experiences [http://alaliee.com/](http://alaliee.com/)
+// - 📄 Know about my experiences [http://alaliee.com/](http://alaliee.com/)
 
 - ⚡ Fun fact **Did you know that the first computer bug was a real insect? In 1947, computer scientist Grace Hopper found a moth trapped in the Harvard Mark II computer, causing it to malfunction. She famously taped the "bug" into her logbook, coining the term "debugging" to describe the process of fixing software issues. So the next time you encounter a bug in your code, remember it all started with a little insect! 🐛🪲**
 
 
 <h3 align="left">Platforms and Links:</h3>
-<br/>
-<br/>
 <br/>
 <p align="left">
   <a href="https://skylineholding.com/ar" target="_blank">Skyline Holding (EN-AR)</a> |
