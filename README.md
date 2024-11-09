@@ -40,6 +40,7 @@
   <a href="https://balakuna.net/" target="_blank">Balakuna</a> |
   <a href="https://restaurants-menu-livid.vercel.app/ar" target="_blank">Restaurant Menu (EN-AR) </a> |
   <a href="https://skylineeducation-ten.vercel.app/en/programs" target="_blank">Skyline Education (EN-AR) Platform </a>
+  <a href="https://digital-delta.vercel.app/en" target="_blank">Digital Delta (EN-AR) <!-- Currently in progress --></a>
 </p>
 
 
