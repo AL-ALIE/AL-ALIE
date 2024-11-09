@@ -39,6 +39,7 @@
   <a href="https://tuba-t.com/" target="_blank">Tuba-T</a> |
   <a href="https://balakuna.net/" target="_blank">Balakuna</a> |
  <a href="https://al-alam.news/" target="_blank">al-alam news</a> |
+ <a href=" https://garantian.com/" target="_blank">Garantian Platform financial transactions  - Currently in progress  </a> |Ï
   <a href="https://restaurants-menu-livid.vercel.app/ar" target="_blank">Restaurant Menu (EN-AR) - Currently in progress </a> |
   <a href="https://skylineeducation-ten.vercel.app/en/programs" target="_blank">Skyline Education (EN-AR) Platform -  Currently in progress</a> |
   <a href="https://digital-delta.vercel.app/en" target="_blank">Digital Delta (EN-AR) - Currently in progress  </a>
