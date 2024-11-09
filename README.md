@@ -12,8 +12,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
  
 - 🔭 I’m currently working on 
-  - Skyline Holding (Full Time Jop) ,
-  - Meshdp LLC (Remotely, Part-Time) ,
+  - Skyline Holding (Full Time Jop).
+  - Meshdp LLC (Remotely, Part-Time).
 
 <!-- - 👨‍💻 All of my projects are available at [http://alaliee.com/](http://alaliee.com/)  -->
 
