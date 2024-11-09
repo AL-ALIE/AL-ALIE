@@ -26,17 +26,17 @@
 
 <h3 align="left">Platforms and Links:</h3>
 <p align="left">
-  <a href="https://skylineholding.com/ar" target="_blank">Skyline Holding (AR)</a> |
-  <a href="https://skylinetraveltr.com/ar" target="_blank">Skyline Travel TR Platform (AR)</a> |
-  <a href="https://skylineholding.com.tr/ar" target="_blank">Skyline Holding TR (AR)</a> |
-  <a href="https://skylineexport.com.tr/ar" target="_blank">Skyline Export (AR)</a> |
-  <a href="https://torel.com/" target="_blank">Torel Platform</a> |
-  <a href="https://app.torel.com/en" target="_blank">Torel App (EN)</a> |
-  <a href="https://code-joy.net/ar" target="_blank">Code Joy (AR)</a> |
+  <a href="https://skylineholding.com/ar" target="_blank">Skyline Holding (EN-AR)</a> |
+  <a href="https://skylinetraveltr.com/ar" target="_blank">Skyline Travel TR Platform (EN-AR)</a> |
+  <a href="https://skylineholding.com.tr/ar" target="_blank">Skyline Holding TR (EN-AR)</a> |
+  <a href="https://skylineexport.com.tr/ar" target="_blank">Skyline Export (EN-AR)</a> |
+  <a href="https://torel.com/" target="_blank">Torel Platform (EN-AR) </a> |
+  <a href="https://app.torel.com/en" target="_blank">Torel App (EN-AR) </a> |
+  <a href="https://code-joy.net/ar" target="_blank">Code Joy ((EN-AR-Es)</a> |
   <a href="https://tuba-t.com/" target="_blank">Tuba-T</a> |
   <a href="https://balakuna.net/" target="_blank">Balakuna</a> |
-  <a href="https://restaurants-menu-livid.vercel.app/ar" target="_blank">Restaurant Menu (AR)</a> |
-  <a href="https://skylineeducation-ten.vercel.app/en/programs" target="_blank">Skyline Education (EN)</a>
+  <a href="https://restaurants-menu-livid.vercel.app/ar" target="_blank">Restaurant Menu (EN-AR) </a> |
+  <a href="https://skylineeducation-ten.vercel.app/en/programs" target="_blank">Skyline Education (EN-AR) Platform </a>
 </p>
 
 
