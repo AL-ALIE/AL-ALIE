@@ -24,6 +24,20 @@
 - ⚡ Fun fact **Did you know that the first computer bug was a real insect? In 1947, computer scientist Grace Hopper found a moth trapped in the Harvard Mark II computer, causing it to malfunction. She famously taped the "bug" into her logbook, coining the term "debugging" to describe the process of fixing software issues. So the next time you encounter a bug in your code, remember it all started with a little insect! 🐛🪲**
 
 
+<h3 align="left">Platforms and Links:</h3>
+<p align="left">
+  <a href="https://skylineholding.com/ar" target="_blank">Skyline Holding (AR)</a> |
+  <a href="https://skylinetraveltr.com/ar" target="_blank">Skyline Travel TR Platform (AR)</a> |
+  <a href="https://skylineholding.com.tr/ar" target="_blank">Skyline Holding TR (AR)</a> |
+  <a href="https://skylineexport.com.tr/ar" target="_blank">Skyline Export (AR)</a> |
+  <a href="https://torel.com/" target="_blank">Torel Platform</a> |
+  <a href="https://app.torel.com/en" target="_blank">Torel App (EN)</a> |
+  <a href="https://code-joy.net/ar" target="_blank">Code Joy (AR)</a> |
+  <a href="https://tuba-t.com/" target="_blank">Tuba-T</a> |
+  <a href="https://balakuna.net/" target="_blank">Balakuna</a> |
+  <a href="https://restaurants-menu-livid.vercel.app/ar" target="_blank">Restaurant Menu (AR)</a> |
+  <a href="https://skylineeducation-ten.vercel.app/en/programs" target="_blank">Skyline Education (EN)</a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
