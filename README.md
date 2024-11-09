@@ -13,7 +13,8 @@
  
 - 🔭 I’m currently working on [
   - Skyline Holding (Full Time Jop) ,
-  - Meshdp LLC (Remotely, Part-Time)
+  - Meshdp LLC (Remotely, Part-Time) ,
+
 ]
 <!-- - 👨‍💻 All of my projects are available at [http://alaliee.com/](http://alaliee.com/)  -->
 
