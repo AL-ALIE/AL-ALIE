@@ -58,6 +58,5 @@
  
 ![Most Used Languages](https://img.shields.io/badge/Most%20Used%20Languages-Laravel%2C%20HTML%2C%20CSS-brightgreen)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed&show_icons=true&locale=en" alt="mohammed" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed&" alt="mohammed" /> |
-| --- | --- |
+ | --- | --- |
 
