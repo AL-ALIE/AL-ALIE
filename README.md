@@ -58,5 +58,4 @@
  
 ![Most Used Languages](https://img.shields.io/badge/Most%20Used%20Languages-Laravel%2C%20HTML%2C%20CSS-brightgreen)
 
- | --- | --- |
-
+ 
