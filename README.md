@@ -26,7 +26,7 @@
 - ⚡ Fun fact **Did you know that the first computer bug was a real insect? In 1947, computer scientist Grace Hopper found a moth trapped in the Harvard Mark II computer, causing it to malfunction. She famously taped the "bug" into her logbook, coining the term "debugging" to describe the process of fixing software issues. So the next time you encounter a bug in your code, remember it all started with a little insect! 🐛🪲**
 
 
-<h3 align="left">Platforms and Links:</h3>
+<h3 align="left">portfolio:</h3>
 <br/>
 <p align="left">
   <a href="https://skylineholding.com/ar" target="_blank">Skyline Holding (EN-AR)</a> |
@@ -41,7 +41,7 @@
   <a href="https://al-alam.news/" target="_blank">al-alam news</a> |
   <a href="https://garantian.com/" target="_blank">Garantian Platform financial transactions  - Currently in progress  </a> |
   <a href="https://restaurants-menu-livid.vercel.app/ar" target="_blank">Restaurant Menu (EN-AR) - Currently in progress </a> |
-  <a href="https://skylineeducation-ten.vercel.app/en/programs" target="_blank">Skyline Education (EN-AR) Platform -  Currently in progress</a> |
+  <a href="https://skylineeducation-ten.vercel.app/en" target="_blank">Skyline Education (EN-AR) Platform -  Currently in progress</a> |
   <a href="https://digital-delta.vercel.app/en" target="_blank">Digital Delta (EN-AR) - Currently in progress  </a>
 </p>
 
